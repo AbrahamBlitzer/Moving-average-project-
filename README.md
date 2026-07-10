@@ -1,4 +1,3 @@
-Readme ap project · MDCopyETF Trend-Following Strategy
 Overview
 This project develops and evaluates a rule-based trend-following trading strategy applied to a portfolio of four ETFs. The strategy uses a simple moving average (SMA) rule to determine when to hold each ETF versus move to cash, with the goal of generating strong risk-adjusted returns while keeping drawdowns controlled.
 Strategy Summary
