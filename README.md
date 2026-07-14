@@ -16,10 +16,10 @@ Training Period: 2023-01-01 to 2025-04-30
 Testing Period: 2025-04-30 to 2026-04-30
 
 Results
-Testing Period (Out-of-Sample) — 2025 to 2026
+Testing Period (Out-of-Sample) 2025 to 2026
 MetricTargetResultPassAnnual Return> 5%19.26%✓Sharpe Ratio> 0.81.60✓Max Drawdown< 50%-6.42%✓
 Portfolio grew from $10,000 → $11,917 (+19.17%) during the test period
-Training Period — 2023 to 2025
+Training Period of 2023 to 2025
 MetricTargetResultPassAnnual Return> 5%18.29%✓Sharpe Ratio> 0.81.27✓Max Drawdown< 50%-10.46%✓
 Portfolio grew from $10,000 → $14,740 (+47.40%) during the training period
 Project Breakdown
